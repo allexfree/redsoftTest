@@ -1,3 +1,5 @@
 LP layout for Redsoft
 
-Рабочий пример http://t9213983.beget.tech/redsoft/
+Ex.: http://t9213983.beget.tech/redsoft/
+
+Test commit after adding new ssh key for other user on gihub
